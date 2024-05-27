@@ -166,3 +166,4 @@ data/
 *mlruns/
 02-experiment-tracking/mlflow.db
 02-experiment-tracking/models/
+/Users/sallyhong/Documents/sally_playground/mlops-zoomcamp/02-experiment-tracking/output/
